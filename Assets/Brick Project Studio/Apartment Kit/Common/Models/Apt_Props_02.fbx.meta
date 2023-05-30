@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 18a06f327a98b134b82b2c13d6c3a3c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Art
+    100004: Bulb
+    100006: Bulb.001
+    100008: CeilingLamp
+    100010: Cover
+    100012: LampWall_Apt_01
+    100014: LampWall_Apt_02
+    100016: Light
+    100018: Rug
+    100020: Seat
+    100022: WallArt_Apt_01
+    400000: //RootNode
+    400002: Art
+    400004: Bulb
+    400006: Bulb.001
+    400008: CeilingLamp
+    400010: Cover
+    400012: LampWall_Apt_01
+    400014: LampWall_Apt_02
+    400016: Light
+    400018: Rug
+    400020: Seat
+    400022: WallArt_Apt_01
+    2100000: No Name
+    2300000: Art
+    2300002: Bulb
+    2300004: Bulb.001
+    2300006: CeilingLamp
+    2300008: Cover
+    2300010: LampWall_Apt_01
+    2300012: LampWall_Apt_02
+    2300014: Light
+    2300016: Rug
+    2300018: Seat
+    2300020: WallArt_Apt_01
+    3300000: Art
+    3300002: Bulb
+    3300004: Bulb.001
+    3300006: CeilingLamp
+    3300008: Cover
+    3300010: LampWall_Apt_01
+    3300012: LampWall_Apt_02
+    3300014: Light
+    3300016: Rug
+    3300018: Seat
+    3300020: WallArt_Apt_01
+    4300000: LampWall_Apt_02
+    4300002: Bulb
+    4300004: WallArt_Apt_01
+    4300006: Cover
+    4300008: Art
+    4300010: LampWall_Apt_01
+    4300012: Bulb.001
+    4300014: Rug
+    4300016: Seat
+    4300018: CeilingLamp
+    4300020: Light
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
